@@ -16,7 +16,7 @@ import { ArrowLeft, Send, Phone, Video } from 'lucide-react-native';
 const mockMessages = [
   {
     id: '1',
-    text: 'Hi! Welcome to Mexico City. I\'m excited to host you at my downtown loft.',
+    text: 'Hi! Welcome to Barcelona. I\'m excited to host you at my downtown loft.',
     sender: 'host',
     timestamp: '10:30 AM',
   },
