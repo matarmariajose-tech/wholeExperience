@@ -56,30 +56,6 @@ WholeExperience is a mobile application built with React Native and Expo, design
    cd WholeExperience
    npm install
 
-3. Configuration:
-## Create a .env file with the following:
-  FIREBASE_API_KEY=your_firebase_api_key
-  FIREBASE_AUTH_DOMAIN=your_firebase_auth_domain
-  FIREBASE_PROJECT_ID=your_firebase_project_id
-  FIREBASE_STORAGE_BUCKET=your_firebase_storage_bucket
-  FIREBASE_MESSAGING_SENDER_ID=your_firebase_messaging_sender_id
-  FIREBASE_APP_ID=your_firebase_app_id
-  STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key
-
-- Configure Firebase in firebaseConfig.js.
-- Set up Expo Notifications and Stripe in app.config.js.
-
-
- 4. Run the App:
- - Scan the QR code with the Expo Go app on iOS/Android or use an emulator.
-
-
-- Network Errors: Handled with try-catch blocks and user-friendly alerts.
-- Authentication: Validates user input and displays specific error messages (e.g., invalid email).
-- Payments: Stripe error codes mapped to clear user feedback.
-- Firestore: Offline support with Firebase's built-in caching.
-- Logs: Centralized logging for debugging (console and Firebase Crashlytics).
-
 ## Design
 
 - Responsive: Optimized for iOS and Android with dynamic layouts.
