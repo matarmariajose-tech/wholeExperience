@@ -1,9 +1,6 @@
 # WholeExperience
 
 WholeExperience is a mobile application built with React Native and Expo, designed as a vacation rental platform similar to Airbnb. It connects guests, property owners, and cleaning staff, offering a seamless experience for booking, managing, and reviewing vacation apartments.
-
-<img width="1179" height="2291" alt="IMG_6563" src="https://github.com/user-attachments/assets/dd4bc9b6-5ead-4b94-8a25-f35aa429950b" />
-
 ### Core Functionalities
 - **Search & Filter**: Find apartments by location, dates, price, and amenities.
 - **User Profiles**: Distinct roles for guests, property owners, and cleaning staff.
