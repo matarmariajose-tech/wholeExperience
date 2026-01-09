@@ -17,7 +17,7 @@ WholeExperience is a mobile application built with React Native and Expo, design
 3. Cleaning staff notified upon check-out confirmation.
 4. Post-checkout apartment condition verification.
 
-<img width="1179" height="2318" alt="IMG_6566" src="https://github.com/user-attachments/assets/60c2e39c-7bf2-4457-a8e8-b3fe64ebd1cb" />
+<img width="500" height="500" alt="IMG_6566" src="https://github.com/user-attachments/assets/60c2e39c-7bf2-4457-a8e8-b3fe64ebd1cb" />
 
 ## Tech Stack
 - **Framework**: React Native with Expo
