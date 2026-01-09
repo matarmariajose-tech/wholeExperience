@@ -68,8 +68,3 @@ WholeExperience is a mobile application built with React Native and Expo, design
 - Commit changes (git commit -m "Add your feature").
 - Push to the branch (git push origin feature/your-feature).
 - Open a pull request.
-
-## License
-- MIT License. See LICENSE for details.
-
-### Let me know if you need further adjustments or additional details!
